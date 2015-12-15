@@ -10,7 +10,7 @@
 	  	{% include menu.html %}
     
     <!-- Icon menu -->
-	  <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
+	  <a href="#" {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
 	  	<div id="menu"></div>
 	  </a>
 
@@ -64,9 +64,9 @@
 	    <!-- Footer -->
 	    {% include footer.html %}
 
-	    <!-- Script -->
-      {% include script.html %}
-
 	</div>
+    	    <!-- Script -->
+      {% include script.html %}
+    {% include analytics.html %}
 </body>
 </html>
