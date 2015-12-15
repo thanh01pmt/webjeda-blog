@@ -8,7 +8,7 @@ While I was working at Cognizant Technology Solutions I always used to have a ta
 
 By then I was learning html, css and a little javascript. I used to use the code I learned in github to see how it comes up. It was not always a positive result. I had to debug a lot and adapt the code rather copy pasting it. 
 
-I created a lot of websites like 
+I created a lot of websites like
 
 
 [RedGadgets](http://redgadget.github.io/)
